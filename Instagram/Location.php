@@ -17,7 +17,7 @@ use \Instagram\Collection\MediaCollection;
  * Some media has no location associated, but has a lat/lng. These location objects will return null or '' for certain method calls
  *
  * @see \Instagram\Instagram->getCurrentUser()
- * {@link https://github.com/galen/PHP-Instagram-API/blob/master/Examples/location.php}
+ * {@link https://github.com/marketmesuite/PHP-Instagram-API/blob/master/Examples/location.php}
  * {@link http://galengrover.com/projects/instagram/?example=location.php}
  */
 class Location extends \Instagram\Core\BaseObjectAbstract {

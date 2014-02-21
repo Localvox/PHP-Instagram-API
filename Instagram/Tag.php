@@ -14,7 +14,7 @@ use \Instagram\Collection\TagMediaCollection;
  * Tag class
  *
  * @see \Instagram\Instagram->getTag()
- * {@link https://github.com/galen/PHP-Instagram-API/blob/master/Examples/tag.php}
+ * {@link https://github.com/marketmesuite/PHP-Instagram-API/blob/master/Examples/tag.php}
  * {@link http://galengrover.com/projects/instagram/?example=tag.php}
  */
 class Tag extends \Instagram\Core\BaseObjectAbstract {

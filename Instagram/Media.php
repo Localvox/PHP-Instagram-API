@@ -19,7 +19,7 @@ use \Instagram\Collection\UserCollection;
  * Media class
  *
  * @see \Instagram\Instagram->getLocation()
- * {@link https://github.com/galen/PHP-Instagram-API/blob/master/Examples/media.php}
+ * {@link https://github.com/marketmesuite/PHP-Instagram-API/blob/master/Examples/media.php}
  * {@link http://galengrover.com/projects/instagram/?example=media.php}
  */
 class Media extends \Instagram\Core\BaseObjectAbstract {

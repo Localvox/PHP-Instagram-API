@@ -18,7 +18,7 @@ use \Instagram\Collection\UserCollection;
  * Holds the currently logged in user
  *
  * @see \Instagram\Instagram->getCurrentUser()
- * {@link https://github.com/galen/PHP-Instagram-API/blob/master/Examples/current_user.php}
+ * {@link https://github.com/marketmesuite/PHP-Instagram-API/blob/master/Examples/current_user.php}
  * {@link http://galengrover.com/projects/instagram/?example=current_user.php}
  */
 class CurrentUser extends \Instagram\User {

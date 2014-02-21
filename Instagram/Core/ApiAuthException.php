@@ -13,6 +13,6 @@ namespace Instagram\Core;
  *
  * This exception type will be thrown if the access token you are using is no longer valid.
  *
- * {@link https://github.com/galen/PHP-Instagram-API/blob/master/Examples/index.php#L39}
+ * {@link https://github.com/marketmesuite/PHP-Instagram-API/blob/master/Examples/index.php#L39}
  */
 class ApiAuthException extends \Instagram\Core\ApiException {}
