@@ -32,13 +32,14 @@ All methods that access the API can throw exceptions. If the API request fails f
 <b></b>
 
     $auth->authorize();
-
-- This will redirect the user to the Instagram authorization page. After authorization Instagram will redirect the user to the url in `$auth_config['redirect_uri']` with a code that you will need to obtain an access token
 - If you want to get the authorization URL, you should use this
 
 <b></b>
 
     $authUrl = $auth->getAuthorizationUrl();
+
+
+- This will redirect the user to the Instagram authorization page. After authorization Instagram will redirect the user to the url in `$auth_config['redirect_uri']` with a code that you will need to obtain an access token
 
 <b></b>
 
